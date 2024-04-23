@@ -1,3 +1,2 @@
-# Ôאיכ people.py
-
-print('Ýעמ פאיכ people.py')
+def get_employees():
+	print("get_employees")

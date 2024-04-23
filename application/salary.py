@@ -1,3 +1,2 @@
-# Ôאיכ salary.py
-
-print('Ýעמ פאיכ salary.py')
+def calculate_salary():
+	print("calculate_salary")

@@ -1,1 +1,0 @@
-people = ['Alice', 'Bob', 'Charlie', 'David', 'Eve']
